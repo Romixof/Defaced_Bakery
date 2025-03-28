@@ -18,10 +18,10 @@ You're a junior incident responder at CyberSec LLP investigating a website defac
 
 | File | SHA1 Hash |
 |------|-----------|
-| `apache_access.log` | `C23A9733638C7D81E4E37644D59A3E394B94CA66` |
-| `error.log` | `A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0` |
-| `file_changes.txt` | `X9Y8Z7W6V5U4T3S2R1Q0P9O8N7M6L5K4J3` |
-| `wordpress_users.csv` | `P0O9I8U7Y6T5R4E3W2Q1` |
+| `apache_access.log` | `CD300E83FEC3367EAD9716BAC72D237FA7893DC9` |
+| `error.log` | `9E820806C3E0A622B38D874A995B9261B9DED426` |
+| `file_changes.txt` | `270FC7422D788EBD74FAD2AA08ED22396264125B` |
+| `wordpress_users.csv` | `2E809A45F690D1FFBA95EFF371884A8E1A3F0312` |
 
 ## 🎯 Investigation Questions
 
