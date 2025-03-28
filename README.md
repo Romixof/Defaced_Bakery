@@ -3,7 +3,7 @@
 ![Banner](https://github.com/hackthebox/public-templates/blob/master/assets/banner.png?raw=true)
 
 **Difficulty**: <span style="color:green">Easy</span>  
-**Author**: Sherlock Holmes  
+**Author**: Romix0ff  
 **Last Updated**: March 25, 2024  
 
 ## 🔍 Scenario
