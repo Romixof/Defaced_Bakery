@@ -3,9 +3,9 @@ Defaced Bakery Writeup
 
 25<sup>th</sup> March 2024
 
-Prepared by: Sherlock Holmes
+Prepared by: Romix0ff
 
-Machine Author(s): HTB Labs
+Machine Author(s): Romix0ff
 
 Difficulty: <font color="Green">Easy</font>
 Scenario
