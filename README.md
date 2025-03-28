@@ -8,13 +8,16 @@ Prepared by: Romix0ff
 Machine Author(s): Romix0ff
 
 Difficulty: <font color="Green">Easy</font>
-Scenario
-Copy
 
+
+Scenario
+
+```
 You're a junior incident responder at CyberSec LLP. ByteBakery Inc. reported their WordPress site was defaced with "HACKED BY CYBER_COOKIE!". Analyze the provided artifacts to determine:  
 - Initial attack vector  
 - Attacker persistence mechanisms  
 - Data exfiltration evidence  
+```
 
 Artifacts Provided
 
