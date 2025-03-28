@@ -40,6 +40,6 @@ You're a junior incident responder at CyberSec LLP investigating a website defac
 ## 🚀 Getting Started
 
 1. Download the evidence files:
-   ```bash
-   wget https://example.com/defaced_bakery_artifacts.zip
-   unzip defaced_bakery_artifacts.zip
+   ```
+   git clone https://github.com/Romixof/Defaced_Bakery
+   unzip Defaced_Bakery_Sherlock.zip
