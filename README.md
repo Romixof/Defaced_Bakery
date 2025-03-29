@@ -25,11 +25,26 @@ You're a junior incident responder at CyberSec LLP investigating a website defac
 
 ## 🎯 Investigation Questions
 
-1. What was the attacker's entry point?
-2. Which IP successfully authenticated?
-3. What password was compromised?
-4. Where was the webshell uploaded?
-5. Which log file did the attacker attempt to delete?
+    1. First malicious IP in the logs?
+
+    2. Username used in brute-force attack?
+
+    3. Password found in the leaked database?
+
+    4. HTTP status code of successful admin login?
+
+    5. Full path of the uploaded webshell?
+
+    6. Command used to wipe logs?
+
+    7. Database table dumped (from error.log)?
+
+    8. Filename of the stolen backup?
+
+    9. Modified config file (from file_changes.txt)?
+    
+    10. Parent process of the webshell (from error.log)?
+    
 
 ## 🛠️ Recommended Tools
 
